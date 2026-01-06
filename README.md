@@ -1,22 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hafsa%20Raja&fontSize=70&animation=fadeIn" />
-  
-  <h3>🚀 Solo Founder | AI Developer | Educator 🚀</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hafsa%20Raja&fontSize=70&animation=fadeIn" width="100%"/>
 
-  ![Typing SQL](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Building+HR.AIverse;AI+Chatbot+Expert;Full+Stack+Developer;Always+Learning+Something+New)
-</div>
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Founder+at+HR.AIverse;AI+Solution+Architect;Computer+Science+Educator;Building+the+Future+of+EdTech" />
+  </h2>
+
+  <p>🚀 <i>Welcome to my digital space!</i> 🚀</p>
+  <img src="https://komarev.com/ghpvc/?username=hrranger5&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</div>>
 
 # 💫 About Me
 
-I am a Computer Science professional, educator, and solo founder of **HR.AIverse**. I bridge the gap between education and technology through practical programming and AI-driven solutions.
-
-- 💼 **Currently Working On:** [HR.AIverse](https://github.com/hrranger5) – Empowering students with programming and building AI chatbots.
-- 🤝 **Looking to Collaborate On:** EdTech projects, AI applications, and web development.
-- 🆘 **I’m looking for help with:** Advanced AI workflows and scalable system design.
-- 🌱 **I’m currently learning:** Data Science, Backend Integration, and Modern Web Tech.
-- 💬 **Ask me about:** Programming for beginners, AI chatbots, and learning strategies.
-- ⚡ **Fun Fact:** I independently manage teaching, coding, and a tech initiative!
-
+### 🚀 Overview
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ About Me</h3>
+      I bridge the gap between education and technology. As the founder of <b>HR.AIverse</b>, I build smart systems while teaching the next generation of coders.
+      <br><br>
+      - 💼 **Current:** Solo Founder & Lead Dev
+      - 🌱 **Learning:** Data Science & Scalable AI
+      - 🆘 **Help:** System Design & Best Practices
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Activity Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=hrranger5&theme=transparent&show_icons=true&hide_border=true&title_color=4285F4" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Socials:
