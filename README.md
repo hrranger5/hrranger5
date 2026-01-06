@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hafsa%20Raja&fontSize=70&animation=fadeIn" />
+  
+  <h3>🚀 Solo Founder | AI Developer | Educator 🚀</h3>
+
+  ![Typing SQL](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Building+HR.AIverse;AI+Chatbot+Expert;Full+Stack+Developer;Always+Learning+Something+New)
+</div>
+
 # 💫 About Me
 
 I am a Computer Science professional, educator, and solo founder of **HR.AIverse**. I bridge the gap between education and technology through practical programming and AI-driven solutions.
