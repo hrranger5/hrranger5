@@ -1,13 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hafsa%20Raja&fontSize=70&animation=fadeIn" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3Dauto%26height%3D150%26section%3Dheader%26text%3DWelcome%2520to%2520My%2520World%26fontSize%3D50%26animation%3DfadeIn" width="100%"/>
+</div>
 
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Founder+at+HR.AIverse;AI+Solution+Architect;Computer+Science+Educator;Building+the+Future+of+EdTech" />
-  </h2>
+<table align="center" border="0">
+<tr>
+<td width="60%" valign="center">
+<h1>Hi, I'm Hafsa Raja 👋</h1>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D4285F4%26width%3D435%26lines%3DFounder%2Bof%2BHR.AIverse%3BAI%2BSolution%2BArchitect%3BCS%2BEducator%2B%2526%2BDeveloper%3BBuilding%2BFuture%2BEdTech" alt="Typing SVG" />
+<p>
+I bridge the gap between education and technology. As a solo founder,
+I build smart AI systems while empowering students through code.
+</p>
+</td>
+<td width="40%" align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndW94Z3R4bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Girl GIF" />
 
-  <p>🚀 <i>Welcome to my digital space!</i> 🚀</p>
-  <img src="https://komarev.com/ghpvc/?username=hrranger5&color=blue&style=flat-square&label=PROFILE+VIEWS" />
-</div>>
+
 
 ### 💫 About Me
 
