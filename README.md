@@ -9,26 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=hrranger5&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </div>>
 
-# 💫 About Me
+### 💫 About Me
 
-### 🚀 Overview
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ About Me</h3>
-      I bridge the gap between education and technology. As the founder of <b>HR.AIverse</b>, I build smart systems while teaching the next generation of coders.
-      <br><br>
-      - 💼 **Current:** Solo Founder & Lead Dev
-      - 🌱 **Learning:** Data Science & Scalable AI
-      - 🆘 **Help:** System Design & Best Practices
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Activity Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hrranger5&theme=transparent&show_icons=true&hide_border=true&title_color=4285F4" />
-    </td>
-  </tr>
-</table>
----
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrranger5&theme=dark&layout=compact&hide_border=true" />
+
+I bridge the gap between education and technology. As the founder of **HR.AIverse**, I build smart systems while teaching the next generation of coders.
+
+- 💼 **Current Project:** [HR.AIverse](https://github.com/hrranger5) (EdTech + AI)
+- 🤝 **Collaboration:** Interested in EdTech & AI-based Web Apps.
+- 🆘 **Support:** Looking for guidance in Scalable System Design.
+- 🌱 **Learning:** Data Science & Advanced AI Workflows.
+- 💬 **Ask me:** Programming basics, AI chatbots, & learning strategies.
+
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/24.01_here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafsa-raja-5224a8365) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrranger555@gmail.com) 
